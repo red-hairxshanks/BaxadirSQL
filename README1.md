@@ -15,7 +15,7 @@ Customers face difficulties in viewing menus, placing orders, and tracking order
 
 Restaurant managers lack a centralized system to monitor orders, sales, and overall performance.
 
-5. Project Objectives
+5. Project Objectives   
 - 
 - To design an online system that allows customers to place food orders easily.
 
